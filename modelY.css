@@ -1,0 +1,140 @@
+html{
+    font-family: 'Raleway';
+}
+body{
+    background-image: url('modelY.jpeg');
+    background-color: white;
+    background-repeat:no-repeat;
+    background-blend-mode: multiply;
+    background-position:top;
+    background-size: cover;
+    padding: 0 7%;
+    scale:inherit;
+}
+
+.model_Y h1{
+    color: black;
+    position:absolute;
+    bottom: 20px;
+    left: 250px;
+    font-size: 40px;
+    font-family: 'Raleway';
+}
+
+.miles h2{
+    color: black;
+    position:absolute;
+    bottom: 40px;
+    right: 503px;
+    font-size: 31px;
+}
+
+.miles p{
+    color: black;
+    position:absolute;
+    bottom: 20px;
+    right: 500px;
+    font-size: 20px;
+}
+
+.top_speed h2{
+    color: black;
+    position:absolute;
+    bottom: 40px;
+    right: 343px;
+    font-size: 31px;
+}
+
+.top_speed p{
+    color: black;
+    position:absolute;
+    bottom: 20px;
+    right: 350px;
+    font-size: 20px;
+}
+
+.zerotosixty h2{
+    color: black;
+    position:absolute;
+    bottom: 40px;
+    right: 187px;
+    font-size: 31px;
+}
+
+.zerotosixty p{
+    color: black;
+    position:absolute;
+    bottom: 20px;
+    right: 190px;
+    font-size: 20px;
+}
+
+.line{
+    color: black;
+    position:absolute;
+    bottom: 25px;
+    left: 430px;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.Purchase p{
+    color: white;
+    position: absolute;
+    right: 87px;
+    top: 37px;
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+
+.model3 a {
+    color: white;
+    position: absolute;
+    cursor:pointer;
+    font-size: 20px;
+    top: 20px;
+    left: 430px;
+    text-decoration:none;
+    color: white;
+}
+.modelY a {
+    color: white;
+    position: absolute;
+    cursor:pointer;
+    font-size: 20px;
+    top: 20px;
+    left: 565px;
+    text-decoration:none;
+    color: white;
+}
+.modelX a {
+    color: white;
+    position: absolute;
+    cursor:pointer;
+    font-size: 20px;
+    top: 20px;
+    left: 710px;
+    text-decoration:none;
+    color: white;
+}
+.modelS a {
+    color: white;
+    position: absolute;
+    cursor:pointer;
+    font-size: 20px;
+    top: 20px;
+    left: 860px;
+    text-decoration:none;
+    color: white;
+}
+
+.Logo img {
+    position: absolute;
+    top:35px;
+    left: 70px;
+    height: 90px;
+}
+

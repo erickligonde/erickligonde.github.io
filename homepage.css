@@ -1,0 +1,70 @@
+html{
+    font-family: 'Raleway';
+    background: linear-gradient(319deg, #ff6a00 0%, #ff1000 37%, #ff6a00 100%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+}
+h1{
+    position: absolute;
+    text-align: center;
+    top: 200px;
+    left: 500px;
+    font-size: 50px;
+}
+h2{
+    position: absolute;
+    text-align: center;
+    top: 290px;
+    left: 580px;
+    font-size: 35px;
+}
+.model3 a {
+    position: absolute;
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 20px;
+    cursor:pointer;
+    font-size: 20px;
+    top: 400px;
+    left: 430px;
+    text-decoration:none;
+    color: inherit;
+    transition: background-image 1s;
+}
+.modelY a {
+    position: absolute;
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 20px;
+    top: 400px;
+    left: 565px;
+    text-decoration:none;
+    color: inherit;
+}
+.modelX a {
+    position: absolute;
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 20px;
+    top: 400px;
+    left: 710px;
+    text-decoration:none;
+    color: inherit;
+}
+.modelS a {
+    position: absolute;
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 20px;
+    top: 400px;
+    left: 860px;
+    text-decoration:none;
+    color: inherit;
+}
